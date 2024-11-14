@@ -3,24 +3,25 @@
 WORKING :-
 
 1) It displays 
-Enter the number of months: 
+Enter the number of months: <br>
 
---- Month 1 ---
-Enter the total budget for month 1:
-Enter the number of items on which money was spent: 
-Enter the amounts for each expense:
-Expense 1: 
-Expense 2:
+--- Month 1 ---<br>
+Enter the total budget for month 1: <br>
+Enter the number of items on which money was spent: <br>
+Enter the amounts for each expense: <br>
+Expense 1: <br>
+Expense 2: <br>
 :
 : 
-
---- Month 2 ---
-Enter the total budget for month 2: 
-Enter the number of items on which money was spent: 
-Enter the amounts for each expense:
-Expense 1: 
-Expense 2: 
+<br>
+--- Month 2 --- <br>
+Enter the total budget for month 2: <br>
+Enter the number of items on which money was spent: <br>
+Enter the amounts for each expense: <br>
+Expense 1: <br>
+Expense 2: <br>
 :
 :
-
+<br>
 Do you want an overview or a detailed review? (o/d):
+<br>
